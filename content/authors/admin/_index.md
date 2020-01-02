@@ -1,75 +1,54 @@
 ---
-# Display name
-name: Nelson Bighetti
-
-# Username (this should match the folder name)
 authors:
 - admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+bio: Asesor jurídico en temas laborales. Me interesa el proceso laboral, la teoría de la prueba y los programas de computación.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - course: Magíster en razonamiento probatorio
+    institution: Universitat de Girona, Università degli studi di Genova
+    year: 2018
+  - course: Magíster en argumentación jurídica
+    institution: Universidad de Alicante, Università degli studi di Palermo
+    year: 2015
+  - course: Magíster en derecho con mención en política jurisdiccional
+    institution: Pontificia Universidad Católica del Perú
+    year: 2006
+email: "paulgonzaloparedes@gmail.com"
+interests:
+- Razonamiento probatorio
+- Proceso laboral
+- Inteligencia artificial
+- Programas de computación
+- Editores de libros
+name: Paul Paredes
+organizations:
+- name: Cano Paredes Abogados S.A.C.
+  url: "https://canoparedes.com.pe"
+role: Asesor jurídico
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Paul_Paredes
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=6Uw7AQcAAAAJ&hl=es
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  link: https://github.com/PaulParedes
+superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Soy abogado laboralista. Desde julio de 2010 ejerzo la abogacía de manera independiente en defensa de trabajadores y sindicatos. Antes, entre agosto de 2007 y junio de 2010, trabajé como asesor en el Ministerio de Trabajo donde, entre otras actividades, redacté el proyecto que luego vino a ser la ley 29497, Nueva Ley Procesal del Trabajo. Y con anterioridad a ello trabajé en el sector privado con algunos breves tiempos en el sector público. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Estudié derecho en la Pontificia Universidad Católica del Perú donde obtuve el título de abogado en 1995. Soy Magíster en Derecho con mención en Política Jurisdiccional por la misma casa de estudios (2006). Magíster en Argumentación Jurídica por la Università degli Studi di Palermo y la Universidad de Alicante (2016). Máster en Razonamiento Probatorio por la Universidad de Girona y la Universidad de Génova (2018).
+
+Profesor en la Pontificia Universidad Católica del Perú, a cargo del curso Procesos Laborales en la Maestría de Derecho del Trabajo y de la Seguridad Social. Afiliado al Colegio de Abogados de Lima. Miembro de la Sociedad Peruana de Derecho del Trabajo y de la Seguridad Social.
+
+Autor del libro Prueba y presunciones en el proceso laboral y de artículos en materia procesal laboral y procesal constitucional.
+

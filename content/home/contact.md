@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Contact"
+title = "Contacto"
 subtitle = ""
 
 # Automatically link email and phone?
@@ -16,5 +16,6 @@ autolink = true
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
 email_form = 2
+action = "https://formspree.io/paulgonzaloparedes@gmail.com"
+method="POST"
 +++
-

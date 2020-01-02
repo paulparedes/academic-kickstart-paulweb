@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Acredita&shy;ciones"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,73 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Università degli studi di Genova"
+  organization_url = "https://giurisprudenza.unige.it/"
+  title = "Master universitario di II livello in ragionamento probatorio, 2019"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  certificate_url = ""
+  date_start = "2017-04-01"
+  date_end = "2018-04-07"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Universitat de Girona"
+  organization_url = "http://razonamientoprobatorio.com/index.html"
+  title = "Máster en razonamiento probatorio, 2017/2018"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-04-01"
+  date_end = "2018-04-07"
+  description = ""
+
+[[item]]
+  organization = "Università degli studi di Palermo"
+  organization_url = ""
+  title = "Master di secondo livello in “Argomentazione Giuridica”, 2014/2015"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-05-01"
+  date_end = "2015-05-01"
+  description = ""
+
+[[item]]
+  organization = "Universidad de Alicante"
+  organization_url = ""
+  title = "Máster en argumentación jurídica, 2014/2015"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-05-01"
+  date_end = "2015-05-01"
+  description = ""
+
+[[item]]
+  organization = "Pontificia Universidad Católica del Perú"
+  organization_url = ""
+  title = "Magíster en Derecho con mención en Política Jurisdiccional, 2006"
+  url = ""
+  certificate_url = ""
+  date_start = "1998-03-01"
+  date_end = "1999-12-01"
+  description = ""
+
+[[item]]
+  organization = "Pontificia Universidad Católica del Perú"
+  organization_url = ""
+  title = "Título profesional de Abogado, 5 de diciembre de 1995."
+  url = ""
+  certificate_url = ""
+  date_start = "1987-03-01"
+  date_end = "1993-12-01"
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Pontificia Universidad Católica del Perú"
+  organization_url = ""
+  title = "Bachiller en Derecho, 14 de marzo de 1994."
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "1987-03-01"
+  date_end = "1993-12-01"
   description = ""
 
 +++
