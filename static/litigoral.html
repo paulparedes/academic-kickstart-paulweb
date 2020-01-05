@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Paul Paredes" />
+  <title>Técnicas de litigación oral</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="litigoral_files/reveal.js-3.3.0.1/css/reveal.css"/>
+
+
+
+<link rel="stylesheet" href="litigoral_files/reveal.js-3.3.0.1/css/theme/simple.css" id="theme">
+
+
+  <!-- some tweaks to reveal css -->
+  <style type="text/css">
+    .reveal h1 { font-size: 2.0em; }
+    .reveal h2 { font-size: 1.5em;  }
+    .reveal h3 { font-size: 1.25em;	}
+    .reveal h4 { font-size: 1em;	}
+
+    .reveal .slides>section,
+    .reveal .slides>section>section {
+      padding: 0px 0px;
+    }
+
+
+
+    .reveal table {
+      border-width: 1px;
+      border-spacing: 2px;
+      border-style: dotted;
+      border-color: gray;
+      border-collapse: collapse;
+      font-size: 0.7em;
+    }
+
+    .reveal table th {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      font-weight: bold;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal table td {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+
+  </style>
+
+    <style type="text/css">code{white-space: pre;}</style>
+
+
+<!-- Printing and PDF exports -->
+<script id="paper-css" type="application/dynamic-css">
+
+/* Default Print Stylesheet Template
+   by Rob Glazebrook of CSSnewbie.com
+   Last Updated: June 4, 2008
+
+   Feel free (nay, compelled) to edit, append, and
+   manipulate this file as you see fit. */
+
+
+@media print {
+
+	/* SECTION 1: Set default width, margin, float, and
+	   background. This prevents elements from extending
+	   beyond the edge of the printed page, and prevents
+	   unnecessary background images from printing */
+	html {
+		background: #fff;
+		width: auto;
+		height: auto;
+		overflow: visible;
+	}
+	body {
+		background: #fff;
+		font-size: 20pt;
+		width: auto;
+		height: auto;
+		border: 0;
+		margin: 0 5%;
+		padding: 0;
+		overflow: visible;
+		float: none !important;
+	}
+
+	/* SECTION 2: Remove any elements not needed in print.
+	   This would include navigation, ads, sidebars, etc. */
+	.nestedarrow,
+	.controls,
+	.fork-reveal,
+	.share-reveal,
+	.state-background,
+	.reveal .progress,
+	.reveal .backgrounds {
+		display: none !important;
+	}
+
+	/* SECTION 3: Set body font face, size, and color.
+	   Consider using a serif font for readability. */
+	body, p, td, li, div {
+		font-size: 20pt!important;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		color: #000;
+	}
+
+	/* SECTION 4: Set heading font face, sizes, and color.
+	   Differentiate your headings from your body text.
+	   Perhaps use a large sans-serif for distinction. */
+	h1,h2,h3,h4,h5,h6 {
+		color: #000!important;
+		height: auto;
+		line-height: normal;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		text-shadow: 0 0 0 #000 !important;
+		text-align: left;
+		letter-spacing: normal;
+	}
+	/* Need to reduce the size of the fonts for printing */
+	h1 { font-size: 28pt !important;  }
+	h2 { font-size: 24pt !important; }
+	h3 { font-size: 22pt !important; }
+	h4 { font-size: 22pt !important; font-variant: small-caps; }
+	h5 { font-size: 21pt !important; }
+	h6 { font-size: 20pt !important; font-style: italic; }
+
+	/* SECTION 5: Make hyperlinks more usable.
+	   Ensure links are underlined, and consider appending
+	   the URL to the end of the link for usability. */
+	a:link,
+	a:visited {
+		color: #000 !important;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	/*
+	.reveal a:link:after,
+	.reveal a:visited:after {
+		content: " (" attr(href) ") ";
+		color: #222 !important;
+		font-size: 90%;
+	}
+	*/
+
+
+	/* SECTION 6: more reveal.js specific additions by @skypanther */
+	ul, ol, div, p {
+		visibility: visible;
+		position: static;
+		width: auto;
+		height: auto;
+		display: block;
+		overflow: visible;
+		margin: 0;
+		text-align: left !important;
+	}
+	.reveal pre,
+	.reveal table {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.reveal pre code {
+		padding: 20px;
+		border: 1px solid #ddd;
+	}
+	.reveal blockquote {
+		margin: 20px 0;
+	}
+	.reveal .slides {
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 0 !important;
+		zoom: 1 !important;
+
+		overflow: visible !important;
+		display: block !important;
+
+		text-align: left !important;
+		-webkit-perspective: none;
+		   -moz-perspective: none;
+		    -ms-perspective: none;
+		        perspective: none;
+
+		-webkit-perspective-origin: 50% 50%;
+		   -moz-perspective-origin: 50% 50%;
+		    -ms-perspective-origin: 50% 50%;
+		        perspective-origin: 50% 50%;
+	}
+	.reveal .slides section {
+		visibility: visible !important;
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+		display: block !important;
+		overflow: visible !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 60px 20px !important;
+		z-index: auto !important;
+
+		opacity: 1 !important;
+
+		page-break-after: always !important;
+
+		-webkit-transform-style: flat !important;
+		   -moz-transform-style: flat !important;
+		    -ms-transform-style: flat !important;
+		        transform-style: flat !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+
+		-webkit-transition: none !important;
+		   -moz-transition: none !important;
+		    -ms-transition: none !important;
+		        transition: none !important;
+	}
+	.reveal .slides section.stack {
+		padding: 0 !important;
+	}
+	.reveal section:last-of-type {
+		page-break-after: avoid !important;
+	}
+	.reveal section .fragment {
+		opacity: 1 !important;
+		visibility: visible !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+	}
+	.reveal section img {
+		display: block;
+		margin: 15px 0px;
+		background: rgba(255,255,255,1);
+		border: 1px solid #666;
+		box-shadow: none;
+	}
+
+	.reveal section small {
+		font-size: 0.8em;
+	}
+
+}  
+</script>
+
+
+<script id="pdf-css" type="application/dynamic-css">
+    
+/**
+ * This stylesheet is used to print reveal.js
+ * presentations to PDF.
+ *
+ * https://github.com/hakimel/reveal.js#pdf-export
+ */
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+
+body {
+	margin: 0 auto !important;
+	border: 0;
+	padding: 0;
+	float: none !important;
+	overflow: visible;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+}
+
+/* Remove any elements not needed in print. */
+.nestedarrow,
+.reveal .controls,
+.reveal .progress,
+.reveal .playback,
+.reveal.overview,
+.fork-reveal,
+.share-reveal,
+.state-background {
+	display: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-shadow: 0 0 0 #000 !important;
+}
+
+.reveal pre code {
+	overflow: hidden !important;
+	font-family: Courier, 'Courier New', monospace !important;
+}
+
+ul, ol, div, p {
+	visibility: visible;
+	position: static;
+	width: auto;
+	height: auto;
+	display: block;
+	overflow: visible;
+	margin: auto;
+}
+.reveal {
+	width: auto !important;
+	height: auto !important;
+	overflow: hidden !important;
+}
+.reveal .slides {
+	position: static;
+	width: 100%;
+	height: auto;
+
+	left: auto;
+	top: auto;
+	margin: 0 !important;
+	padding: 0 !important;
+
+	overflow: visible;
+	display: block;
+
+	-webkit-perspective: none;
+	   -moz-perspective: none;
+	    -ms-perspective: none;
+	        perspective: none;
+
+	-webkit-perspective-origin: 50% 50%; /* there isn't a none/auto value but 50-50 is the default */
+	   -moz-perspective-origin: 50% 50%;
+	    -ms-perspective-origin: 50% 50%;
+	        perspective-origin: 50% 50%;
+}
+
+.reveal .slides section {
+	page-break-after: always !important;
+
+	visibility: visible !important;
+	position: relative !important;
+	display: block !important;
+	position: relative !important;
+
+	margin: 0 !important;
+	padding: 0 !important;
+	box-sizing: border-box !important;
+	min-height: 1px;
+
+	opacity: 1 !important;
+
+	-webkit-transform-style: flat !important;
+	   -moz-transform-style: flat !important;
+	    -ms-transform-style: flat !important;
+	        transform-style: flat !important;
+
+	-webkit-transform: none !important;
+	   -moz-transform: none !important;
+	    -ms-transform: none !important;
+	        transform: none !important;
+}
+
+.reveal section.stack {
+	margin: 0 !important;
+	padding: 0 !important;
+	page-break-after: avoid !important;
+	height: auto !important;
+	min-height: auto !important;
+}
+
+.reveal img {
+	box-shadow: none;
+}
+
+.reveal .roll {
+	overflow: visible;
+	line-height: 1em;
+}
+
+/* Slide backgrounds are placed inside of their slide when exporting to PDF */
+.reveal section .slide-background {
+	display: block !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+/* All elements should be above the slide-background */
+.reveal section>* {
+	position: relative;
+	z-index: 1;
+}
+
+/* Display slide speaker notes when 'showNotes' is enabled */
+.reveal .speaker-notes-pdf {
+	display: block;
+	width: 100%;
+	max-height: none;
+	left: auto;
+	top: auto;
+	z-index: 100;
+}
+
+/* Display slide numbers when 'slideNumber' is enabled */
+.reveal .slide-number-pdf {
+	display: block;
+	position: absolute;
+	font-size: 14px;
+}
+
+</script>
+
+
+<script>
+var style = document.createElement( 'style' );
+style.type = 'text/css';
+var style_script_id = window.location.search.match( /print-pdf/gi ) ? 'pdf-css' : 'paper-css';
+var style_script = document.getElementById(style_script_id).text;
+style.innerHTML = style_script;
+document.getElementsByTagName('head')[0].appendChild(style);
+</script>
+
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+    <h1 class="title">Técnicas de litigación oral</h1>
+    <h2 class="author">Paul Paredes</h2>
+    <h3 class="date">23 de noviembre de 2019</h3>
+</section>
+
+<section id="razonamiento-probatorio" class="slide level2">
+<h2><strong>Razonamiento probatorio</strong></h2>
+</section>
+<section id="section" class="slide level2">
+<h2></h2>
+<p><img data-src="puntos.jpg" alt="Conectando los puntos" /></p>
+</section>
+<section id="caso" class="slide level2">
+<h2><strong>Caso</strong></h2>
+<blockquote>
+<p>María es médico. Trabaja en una clínica desde hace dos años, pero no tiene contrato de trabajo. Más bien tiene un contrato civil. Cumple un horario. Hace dos días su jefe le ha dicho lo siguiente: “Ya no te necesitamos más María”. Y luego le cerraron la puerta.</p>
+</blockquote>
+</section>
+<section id="elementos-de-la-estructura-argumentativa" class="slide level2">
+<h2><strong>Elementos de la estructura argumentativa</strong></h2>
+<blockquote>
+<p>Argumento[A]–&gt;[Así pues]–&gt;Pretensión[P]</p>
+</blockquote>
+<blockquote>
+<p>Calificador[C]–&gt;[probablemente quizás]–&gt;P</p>
+</blockquote>
+<blockquote>
+<p>porque–&gt; Regla general[RG]–&gt;[dado que, a partir de]</p>
+</blockquote>
+<blockquote>
+<p>Fuente[F]–&gt;[como dice]–&gt;RG</p>
+</blockquote>
+<blockquote>
+<p>Reserva sobre las reglas[R]–&gt;[a menos que]–&gt;RG</p>
+</blockquote>
+</section>
+<section id="caso-1" class="slide level2">
+<h2><strong>Caso</strong></h2>
+<blockquote>
+<p>María es médico. Trabaja en una clínica desde hace dos años, pero no tiene contrato de trabajo. Más bien tiene un contrato civil. Cumple un horario. Hace dos días su jefe le ha dicho lo siguiente: “Ya no te necesitamos más María”. Y luego le cerraron la puerta.</p>
+</blockquote>
+</section>
+<section id="construyendo-la-teoría-del-caso" class="slide level2">
+<h2><strong>Construyendo la teoría del caso</strong></h2>
+<ul>
+<li>A: María ha sido despedida sin causa.</li>
+<li>RG: “Cuando un trabajador es despedido sin causa, le corresponde la reposición en el empleo”.</li>
+<li>F: Luis ha contado que, en efecto, le cerraron la puerta a María.</li>
+<li>P: Por lo tanto, le corresponde la reposición en el empleo.</li>
+<li>C: Esto es altamente probable</li>
+<li>R: A menos que el vínculo sea civil</li>
+</ul>
+</section>
+<section id="fases-de-la-argumentación-del-caso" class="slide level2">
+<h2><strong>Fases de la argumentación del caso</strong></h2>
+<ol type="1">
+<li>Apertura: tema</li>
+<li>Confrontación: protagonistas –pro, –contra</li>
+<li>Argumentación:
+<ul>
+<li>P: Pretensión, opinión, tesis</li>
+<li>A: argumentos, datos</li>
+<li>RG: reglas generales</li>
+<li>F: Fuentes (de A, y RG)</li>
+<li>C: Calificadores</li>
+<li>R: Reserva</li>
+</ul></li>
+<li>Clausura: conclusión</li>
+</ol>
+</section>
+<section id="esquema-de-inferencia-probatoria" class="slide level2">
+<h2><strong>Esquema de inferencia probatoria</strong></h2>
+<p><strong>Hechos probatorios</strong> –&gt; [Respaldo o justificación]–&gt; <strong>Hechos a probar(hipótesis)</strong></p>
+<blockquote>
+<p><strong><em>[Hprobtrs]</em></strong> — [Respaldo] —&gt; <strong>[HaP]</strong></p>
+</blockquote>
+</section>
+<section id="el-respaldo-o-justificación" class="slide level2">
+<h2><strong>El respaldo o justificación</strong></h2>
+<ol type="1">
+<li>Generalizaciones empíricas (máximas de la experiencia, generaliz. ciencia)</li>
+<li>Normas aceptación como probado (presunciones, reglas de prueba tasada)</li>
+<li>Definiciones</li>
+</ol>
+</section>
+<section id="dudas-sobre-las-premisas-descriptivas-la-premisa-menor" class="slide level2">
+<h2><strong>Dudas sobre las premisas descriptivas, la premisa menor:</strong></h2>
+<ol type="1">
+<li>Por falta de conocimiento sobre lo que sucedió</li>
+<li>Por falta de riterio sobre cómo se debe calificar un comportamiento determinado</li>
+</ol>
+</section>
+<section id="sobre-el-conocimiento" class="slide level2">
+<h2><strong>1. Sobre el conocimiento</strong></h2>
+<ul>
+<li>Justificación externa: acontecimiento que realmente ocurrieron</li>
+<li>Por inducción, grado de probabilidad de la conclusión</li>
+<li>Principios que deben observarse: presunción de inocencia, derecho al silencio, presunciones, reglas de exclusión de la prueba, reglas de prueba tasada</li>
+</ul>
+</section>
+<section id="sobre-la-calificación" class="slide level2">
+<h2><strong>2. Sobre la calificación</strong></h2>
+<ol type="1">
+<li>¿El hecho se puede subsumir en el caso genérico descrito en la norma? Problema de vaguedad de las reglas generales.</li>
+<li>Es un problema de definiciones. No depende del mundo, sino de cómo hablamos sobre el mundo.</li>
+</ol>
+<ul>
+<li>Interpretación correctiva extensiva. Amplía el significado de las palabras del texto normativo, para incluir ciertos casos de la zona de penumbra. (Reglas de subsunción laxas)</li>
+<li>Interpretación correctiva restrictiva: Restringe el significado … para excluir de la zona de penumbra. (Reglas de subsunción estricta)</li>
+</ul>
+</section>
+<section id="section-1" class="slide level2">
+<h2></h2>
+<blockquote>
+<p>“1781. Le maître est cru sur son affirmation, Pour la quotité des gages; Pour le paiement du salaire de l’année échue; Et pour les à-comptes donnés pour l’année courante.”</p>
+</blockquote>
+<p>Código civil francés, 1804</p>
+<blockquote>
+<p>“Al dueño se le cree por su dicho, en cuanto a la cuota de los salarios; en cuanto al pago del salario del año vencido; y en cuanto a lo que diga haber dado a cuenta por el año corriente”.</p>
+</blockquote>
+</section>
+<section id="normas-sobre-valoración-de-la-prueba" class="slide level2">
+<h2>Normas sobre valoración de la prueba</h2>
+</section>
+<section id="código-procesal-penal-mod.-01012012" class="slide level2">
+<h2>Código procesal penal, mod. 01/01/2012</h2>
+<p>Artículo 353</p>
+<p>Antes de que la Cour d’assises se retire, el presidente dará lectura de la instrucción siguiente, que será, además, anunciada en letras destacadas, en el lugar más visible de la sala de las deliberaciones.</p>
+</section>
+<section id="section-2" class="slide level2">
+<h2></h2>
+<p>“La ley no preguntará a los jueces sobre los medios por los que han alcanzado el convencimiento, no podrá prescribir las reglas de las que harán depender particularmente la plenitud y la suficiencia de una prueba; les ordenará que se pregunten a sí mismos en el silencio y el recogimiento y que busquen, en la sinceridad de su conciencia, qué impresión les han causado, en su razón, las pruebas esgrimidas contra el acusado, y los medios de su defensa. La ley sólo les hará una pregunta, que reune la totalidad de sus deberes:”¿Tiene usted una íntima convicción?&quot;</p>
+</section>
+<section id="código-procesal-civil" class="slide level2">
+<h2>Código Procesal Civil</h2>
+<p>Finalidad.-</p>
+<p>Artículo 188.- Los medios probatorios tienen por finalidad acreditar los hechos expuestos por las partes, producir certeza en el Juez respecto de los puntos controvertidos y fundamentar sus decisiones.</p>
+</section>
+<section id="código-procesal-penal" class="slide level2">
+<h2>Código Procesal Penal</h2>
+<p>Artículo 158 Valoración.-</p>
+<p>1.En la valoración de la prueba el Juez deberá observar las reglas de la lógica, la ciencia y las máximas de la experiencia, y expondrá los resultados obtenidos y los criterios adoptados.</p>
+</section>
+<section id="código-procesal-penal-1" class="slide level2">
+<h2>Código Procesal Penal</h2>
+<p>Artículo 393 Normas para la deliberación y votación.-</p>
+<ol type="1">
+<li>El Juez Penal no podrá utilizar para la deliberación pruebas diferentes a aquellas legítimamente incorporadas en el juicio.</li>
+</ol>
+<p>2.El Juez Penal para la apreciación de las pruebas procederá primero a examinarlas individualmente y luego conjuntamente con las demás. La valoración probatoria respetará las reglas de la sana crítica, especialmente conforme a los principios de la lógica, las máximas de la experiencia y los conocimientos científicos.</p>
+</section>
+<section id="nlpt" class="slide level2">
+<h2>NLPT</h2>
+<p>Artículo III.- Fundamentos del proceso laboral</p>
+<p>En todo proceso laboral los jueces deben evitar que la desigualdad entre las partes afecte el desarrollo o resultado del proceso, para cuyo efecto procuran alcanzar la igualdad real de las partes, privilegian el fondo sobre la forma, interpretan los requisitos y presupuestos procesales en sentido favorable a la continuidad del proceso, observan el debido proceso, la tutela jurisdiccional y el principio de razonabilidad. En particular, acentúan estos deberes frente a la madre gestante, el menor de edad y la persona con discapacidad.</p>
+</section>
+<section id="nlpt-1" class="slide level2">
+<h2>NLPT</h2>
+<p>Artículo 31.- Contenido de la sentencia</p>
+<p>El juez recoge los fundamentos de hecho y de derecho esenciales para motivar su decisión. La existencia de hechos admitidos no enerva la necesidad de fundamentar la sentencia en derecho.</p>
+</section>
+<section id="section-3" class="slide level2">
+<h2></h2>
+</section>
+    </div>
+  </div>
+
+  <script src="litigoral_files/reveal.js-3.3.0.1/lib/js/head.min.js"></script>
+  <script src="litigoral_files/reveal.js-3.3.0.1/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+        // Vertical centering of slides
+        center: true,
+        // Transition style
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
+
+
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'litigoral_files/reveal.js-3.3.0.1/plugin/search/search.js', async: true },
+          { src: 'litigoral_files/reveal.js-3.3.0.1/plugin/zoom-js/zoom.js', async: true },
+        ]
+      });
+    </script>
+  <!-- dynamically load mathjax for compatibility with self-contained -->
+  <script>
+    (function () {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+      document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
+
+<script>
+  (function() {
+    if (window.jQuery) {
+      Reveal.addEventListener( 'slidechanged', function(event) {  
+        window.jQuery(event.previousSlide).trigger('hidden');
+        window.jQuery(event.currentSlide).trigger('shown');
+      });
+    }
+  })();
+</script>
+
+
+  </body>
+</html>
