@@ -2,21 +2,24 @@
 title: Un cuento chino
 author: ''
 date: '2018-12-05'
-slug: un-cuento-chino
-categories:
-  - Opiniones
-tags:
-  - Derecho del trabajo
-subtitle: ''
-summary: ''
-authors: []
-lastmod: '2019-10-04T02:39:24-05:00'
+output: 
+  - pdf_document
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
+lastmod: '2019-10-04T02:39:24-05:00'
+categories: 
+  - Opiniones
 projects: []
+slug: un-cuento-chino
+subtitle: ''
+summary: ''
+tags: 
+  - Derecho del trabajo
+authors: []
+
 ---
 ## I
 Luego de haber escuchado las diferentes propuestas para «facilitar el crecimiento y la mejora de la productividad de las empresas», tanto desde el gobierno (ministro de Economía, premier y presidente, incluidos) como desde el sector empresarial, la primera reflexión que me viene a la cabeza es que esto es un cuento chino. Un cuento chino es, según la RAE, un embuste, una mentira disfrazada con artificio. No es cualquier mentira sino, digamos, una mentira hábilmente contada que aparece como verdad incuestionable, pero que a la luz de la razón se evidencia que es una verdad a medias y, por tanto, una falsedad, una falacia. El problema con todo cuento chino es que no solo se cuenta para sorprender y encandilar, sino sobre todo para engañar: al desprevenido, al distraído, al de a pie, al ciudadano que confía en sus representantes y en las instituciones. 

@@ -1,23 +1,25 @@
 ---
-title: El cese colectivo por causas objetivas
-author: Paul Paredes
+title: "El cese colectivo por causas objetivas"
+author: "Paul Paredes"
 date: '2019-10-23'
-slug: el-cese-colectivo-por-causas-objetivas
-categories:
-  - Procedimientos administrativos
-tags:
-  - Cese colectivo
-  - Derecho del trabajo
-subtitle: ''
-summary: ''
-authors: []
-lastmod: '2019-10-23T12:12:08-05:00'
+output: pdf_document
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
+lastmod: '2019-10-23T12:12:08-05:00'
+links: null
+categories: 
+ - Procedimientos administrativos
 projects: []
+slug: el-cese-colectivo-por-causas-objetivas
+subtitle: ''
+summary: ''
+tags:
+ - Cese colectivo
+ - Derecho del trabajo
+authors: []
 ---
 1.  Parte general
 
