@@ -48,7 +48,7 @@ Soy abogado laboralista. Desde julio de 2010 ejerzo la abogacía de manera indep
 
 Estudié derecho en la Pontificia Universidad Católica del Perú donde obtuve el título de abogado en 1995. Soy Magíster en Derecho con mención en Política Jurisdiccional por la misma casa de estudios (2006). Magíster en Argumentación Jurídica por la Università degli Studi di Palermo y la Universidad de Alicante (2016). Máster en Razonamiento Probatorio por la Universidad de Girona y la Universidad de Génova (2018).
 
-Profesor en la Pontificia Universidad Católica del Perú, a cargo del curso Procesos Laborales en la Maestría de Derecho del Trabajo y de la Seguridad Social. Afiliado al Colegio de Abogados de Lima. Miembro de la Sociedad Peruana de Derecho del Trabajo y de la Seguridad Social.
+Profesor en la Pontificia Universidad Católica del Perú, a cargo del curso Procesos Laborales en la Maestría de Derecho del Trabajo y de la Seguridad Social. Afiliado al Colegio de Abogados de Lima.
 
 Autor del libro Prueba y presunciones en el proceso laboral y de artículos en materia procesal laboral y procesal constitucional.
 
