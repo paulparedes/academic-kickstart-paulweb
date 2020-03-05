@@ -50,5 +50,7 @@ Estudié derecho en la Pontificia Universidad Católica del Perú donde obtuve e
 
 Profesor en la Pontificia Universidad Católica del Perú, a cargo del curso Procesos Laborales en la Maestría de Derecho del Trabajo y de la Seguridad Social. Afiliado al Colegio de Abogados de Lima.
 
-Autor del libro Prueba y presunciones en el proceso laboral y de artículos en materia procesal laboral y procesal constitucional.
+Autor del libro *Prueba y presunciones en el proceso laboral* y de artículos en materia procesal laboral y procesal constitucional.
+
+También he participado con el artículo *El principio de facilitación probatoria en el proceso laboral* en la obra colectiva _Del derecho al razonamiento probatorio_ publicada por Marcial Pons en febrero de 2020.
 
