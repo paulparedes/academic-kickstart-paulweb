@@ -1,14 +1,15 @@
 ---
-title: Coronavirus y trabajo remoto
+title: Los derechos de los trabajadores en el estado de emergencia. Límites a la circulación
+  y trabajo remoto
 author: ''
 date: '2020-03-16'
 categories:
   - Derecho del trabajo
 tags:
-  - Trabajo remoto
-  - Suspensión
   - Coronavirus
-slug: coronavirus-y-trabajo-remoto
+  - Suspensión
+  - Trabajo remoto
+slug: derechos-trabajadores-estado-emergencia
 lastmod: '2020-03-16T18:13:02-05:00'
 featured: no
 image:
