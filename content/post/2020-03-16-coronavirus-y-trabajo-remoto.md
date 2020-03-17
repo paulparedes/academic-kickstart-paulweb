@@ -2,20 +2,19 @@
 title: Coronavirus y trabajo remoto
 author: ''
 date: '2020-03-16'
+categories:
+  - Derecho del trabajo
+tags:
+  - Trabajo remoto
+  - Suspensión
+  - Coronavirus
 slug: coronavirus-y-trabajo-remoto
-categories: []
-tags: []
-subtitle: ''
-summary: ''
-authors: []
 lastmod: '2020-03-16T18:13:02-05:00'
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-
 ---
 
 # Los derechos de los trabajadores en el estado de emergencia
