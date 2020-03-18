@@ -1,26 +1,29 @@
 ---
-title: Los derechos de los trabajadores en el estado de emergencia. Límites a la circulación
-  y trabajo remoto
+title: Los derechos de los trabajadores en el estado de emergencia
 author: ''
-date: '2020-03-16'
+date: '2020-03-18'
+slug: los-derechos-de-los-trabajadores-en-el-estado-de-emergencia
 categories:
-  - Derecho del trabajo
+  - Derecho individual del trabajo
 tags:
   - Coronavirus
   - Suspensión
   - Trabajo remoto
-slug: derechos-trabajadores-estado-emergencia
-lastmod: '2020-03-16T18:13:02-05:00'
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-03-18T11:14:41-05:00'
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
+projects: []
 ---
 
-# Los derechos de los trabajadores en el estado de emergencia
+Descargue la versión completa del artículo en pdf [AQUÍ](/files/du026-2020-ds044-2020-pcm.pdf) 
 
-Extracto del [informe](/files/du026-2020-ds044-2020-pcm.pdf) sobre el DU 026-2020 que dispone el "trabajo remoto" para los trabajadores con aislamiento social obligatorio, y del DS 044-2020-PCM que limitación la circulación de las personas y declara el estado de emergencia dutante 15 días calendario, del 16 al 30 de marzo inclusivo de 2020.
+# Los derechos de los trabajadores en el estado de emergencia
 
 ## Si agrupamos a los trabajadores según sus posibilidades de circulación ¿qué grupos de trabajadores tenemos?
 
@@ -68,3 +71,4 @@ A partir de esta observación cobra sentido la disposición del artículo 20.2. 
 
 Así, con carácter general, —considerando, además, la finalidad de las medidas adoptadas por el gobierno— debe aplicarse el artículo 20.2 a todo supuesto donde no sea posible implementar el «trabajo remoto». Así, aun cuando no estemos en el grupo de riesgo el empleador deberá otorgar licencia con goce de haber sujeta a compensación posterior.
 
+Lima, 16 de marzo de 2020
