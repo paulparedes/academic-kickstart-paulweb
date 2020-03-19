@@ -21,7 +21,7 @@ image:
 projects: []
 ---
 
-Descargue la versión completa del artículo en pdf [AQUÍ](/files/du026-2020-ds044-2020-pcm.pdf) 
+Descargue la versión completa del artículo en pdf [AQUÍ](/files/du026-2020-ds044-2020-pcm-v2.pdf) 
 
 # Los derechos de los trabajadores en el estado de emergencia
 
