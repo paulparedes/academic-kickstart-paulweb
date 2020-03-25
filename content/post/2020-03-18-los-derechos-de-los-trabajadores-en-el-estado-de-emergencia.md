@@ -1,24 +1,25 @@
 ---
-title: Los derechos de los trabajadores en el estado de emergencia
+title: "Los derechos de los trabajadores en el estado de emergencia"
 author: ''
 date: '2020-03-18'
-slug: los-derechos-de-los-trabajadores-en-el-estado-de-emergencia
-categories:
-  - Derecho individual del trabajo
-tags:
-  - Coronavirus
-  - Suspensión
-  - Trabajo remoto
-subtitle: ''
-summary: ''
-authors: []
-lastmod: '2020-03-18T11:14:41-05:00'
+output: pdf_document
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
+lastmod: '2020-03-18T11:14:41-05:00'
+categories: 
+  - Derecho individual del trabajo
 projects: []
+slug: los-derechos-de-los-trabajadores-en-el-estado-de-emergencia
+subtitle: ''
+summary: ''
+tags:
+  - Coronavirus
+  - Suspensión
+  - Trabajo remoto
+authors: []
 ---
 
 Descargue la versión completa del artículo en pdf [AQUÍ](/files/du026-2020-ds044-2020-pcm-v2.pdf) 
