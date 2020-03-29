@@ -2,7 +2,7 @@
 title: 'D.S. 010-2020-TR: trabajo remoto, infracciones al estado de emergencia y fiscalización
   laboral'
 author: 'Paul Paredes'
-date: '24 de marzo de 2020'
+date: '2020-03-24'
 output: pdf_document
 featured: no
 image:
@@ -26,7 +26,7 @@ authors: []
 ---
 Descargue la versión del artículo en pdf [AQUÍ](/files/ds010-2020-tr.pdf) 
 
-# D.S. 010-2020-TR, "que desarrolla disposiciones para el sector privado, sobre el trabajo remoto previsto en el D.U. 026-2020"
+D.S. 010-2020-TR, "que desarrolla disposiciones para el sector privado, sobre el trabajo remoto previsto en el D.U. 026-2020".
 
 Texto publicado del martes 24 de marzo de 2020. 
 
