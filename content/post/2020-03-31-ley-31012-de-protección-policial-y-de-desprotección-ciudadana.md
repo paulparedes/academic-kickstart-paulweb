@@ -23,6 +23,8 @@ projects: []
 ---
 Descargue la versión del artículo en pdf [AQUÍ](/files/LEY-31012-de-proteccion-policial.pdf) 
 
+> *«La Ley n.° 31012 llamada de __protección policial__ tiene una finalidad muy clara: que los actos que ocurran en una intervención policial se interpreten a favor del policía, lo cual además, en términos procesales, significará que no se pueda dictar en su contra mandato de detención preliminar o prisión preventiva. __Esto incentiva el uso desproporcionado de la fuerza y propicia la impunidad, lo cual es inconstitucional y contrario a los derechos humanos__.»*
+
 
 ## Objeto de la Ley n.° 31012
 
