@@ -1,0 +1,191 @@
+---
+title: Proceso laboral y distanciamiento social. ¿Qué hacer?
+author: ''
+date: '2020-04-12'
+slug: proceso-laboral-y-distanciamiento-social-qué-hacer
+categories:
+  - Proceso laboral
+tags:
+  - Coronavirus
+  - Debido proceso
+  - Oralidad
+  - Estado de emergencia
+  - NLPT
+  - Trabajo remoto
+  - Tecnologías de la información y comunicación
+  - Teletrabajo
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-04-12T19:41:56-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+bibliography: [pandemia.bib]
+link-citations: TRUE
+biblio-style: ""
+
+---
+
+>"La pandemia a raíz del coronavirus nos ha tomado por sorpresa. Nuestras vidas están cambiando en el modo como nos relacionamos con los otros.  La OMS recomienda el distanciamiento social que consiste en mantener, por lo menos, un metro de distancia entre uno y las demás personas. ¿Cómo afectará este distanciamiento la dinámica de los procesos laborales? El juez Huerta en una reciente publicación[^1] ha puesto el tema sobre el tapete y ha llamado a proponer ideas a fin de discutir las medidas más adecuadas una vez se levante el aislamiento social obligatorio. Estas circunstancias pueden servir no solo para pensar en medidas temporales, sino también en mirar hacia una *justicia en línea*."
+
+Descargue la versión completa del artículo en pdf [AQUÍ](/files/procesos-laborales-pandemia.pdf) 
+
+
+[^1]: @huerta_rodriguez_proceso_2020 .
+
+# Introducción
+
+El distanciamiento social una vez levantada la cuarentena será una regla de conducta necesaria para controlar la pandemia y, en los centros laborales, incluidas las salas de audiencia y las oficinas judiciales, será una obligación de seguridad y salud en el trabajo. ¿Cuánto tiempo deberá observarse? Aun no lo sabemos, pero obliga a pensar e implementar, por lo menos, un periodo de transición. 
+
+Este documento tiene como propósito responder al llamado del juez @huerta_rodriguez_proceso_2020 para proponer y discutir las medidas que podrían adoptarse sobre los procesos laborales una vez levantada la cuarentena. Para ello haré un resumen de lo planteado por el autor; una breve reflexión sobre la oralidad; haré referencia al uso de las tecnologías de la información y comunicación; luego, presentaré tres reglas o criterios para el manejo de los procesos laborales; también haré mención de otras medidas respecto de los aspectos circundantes al proceso laboral y que merecen ser abordados para cumplir el distanciamiento social. Finalmente, plantearé que esta puede ser una oportunidad para encaminarnos hacia una justicia con fuertes componentes digitales, digamos, *una justicia en la nube*.
+
+# Proceso oral y pandemia
+
+Tiene razón el juez Huerta cuando sostiene que no se puede continuar con el proceso laboral *"tal como estaba"* antes de la declaratoria del Estado de Emergencia Nacional. El distanciamiento social será una necesidad y, muy probablemente, también una obligación. ¿Qué cambios, transitorios o permanente, se deben introducir entonces?
+
+El juez Huerta propone adoptar medidas transitorias que alteren la estructura actual del proceso laboral oral, en tanto la oralidad --que exigiría hablar y estar presente en las audiencias-- iría en contra de las medidas sanitarias de aislamiento y distanciamiento social. Por cierto, no postula regresar a un modelo de proceso escrito, pero sí acentuar lo escrito sobre lo oral y, en consecuencia, reservar las audiencias (presenciales) para la actuación de la prueba no documental, si esto fuese necesario. Propone, adicionalmente, entre otras medidas, prescindir de la audiencia de conciliación[^2]; permitir el uso del correo electrónico para la presentación de la contestación de la demanda; resolver las apelaciones y casaciones solo con los escritos presentados.
+
+[^2]: Debe precisarse que lo propuesto no consiste en eliminar la conciliación, sino en darle una suerte de *ubicuidad* en el sentido de que las partes pueden, a lo largo del proceso, llegar a un acuerdo conciliatorio.
+
+En mi opinión, considero que la propuesta es acertada y que, a partir de ella, es posible discutir y revisar otras que permitan, bajo una idea de diálogo colectivo, formular un conjunto de medidas transitorias, o incluso permanentes, para mantener el distanciamiento social, pero también para brindar un servicio de justicia con las *debidas garantías*.
+
+# La oralidad
+
+## La importancia de la oralidad
+
+Quiero destacar dos aspectos sobre la oralidad. La primera, sobre su importancia; y la segunda, respecto de su contenido.
+
+La oralidad es la forma gráfica de dar contenido al *derecho a ser oído*. Este derecho expresa una de las garantías del derecho al debido proceso: la de acceder a un tribunal, con determinadas características, donde la persona sea oída y participe ampliamente del proceso[^salmon].
+
+[^salmon]: @salmon_derecho_2012, 107-108.
+
+El artículo 8.1 de la Convención Americana recoge este derecho que vale recordar:
+
+>> *"Toda persona tiene derecho a ser oída, con las debidas garantías y dentro de un plazo razonable, por un juez o tribunal competente, independiente e imparcial, establecido con anterioridad por la ley, en la sustanciación de cualquier acusación penal formulada contra ella, o para la determinación de sus derechos y obligaciones de orden civil, laboral, fiscal o de cualquier otro carácter".*
+
+¿Esto significa que los procesos tienen que necesariamente ser orales? La Corte IDH se ha pronunciado al respecto en sentido negativo.
+
+En el caso Apitz Barbera y otros vs. Venezuela[^apitz] señaló que	*"del	 artículo	 8.1	 de	la	 Convención	 no	 se	 desprende	que	el derecho	a	ser	oído	debe	necesariamente	ejercerse	de	manera	oral	en	todo	procedimiento. Lo	anterior no	obstaría	para	que	la	Corte	considere	que	la	oralidad	es	una	de	las	“debidas	garantías”	que	el	Estado debe	 ofrecer	 a	 los	 justiciables	 en	 cierto	 tipo	 de	 procesos.	 Sin	 embargo,	 el	 representante	 no	 ha	presentado	argumentos	que	justifiquen	por	qué	es	necesaria	la	oralidad,	como	garantía	del	debido	proceso,	en	el	procedimiento	disciplinario	ante	la	CFRSJ	o	en	las	distintas	instancias	recursivas".*	
+
+[^apitz]: Caso Apitz Barbera y otros (“Corte Primera de lo Contencioso Administrativo”) vs. Venezuela. Excepción Preliminar, Fondo, Reparaciones y Costas. Sentencia de 5 de agosto de 2008. Serie C No. 182, párr. 75. 
+
+En el caso  Barbani	 Duarte	 y	 otros	vs.	Uruguay[^barba] precisó esta idea: _El Tribunal ha desarrollado el derecho a ser oído protegido en el artículo 8.1 de la Convención, en el sentido general de comprender el derecho de toda persona a tener acceso al tribunal u órgano estatal encargado de determinar sus derechos y obligaciones, el cual en cierto tipo de procesos debe ejercerse de manera oral._
+
+[^barba]:   Caso	 Barbani	 Duarte	 y	 otros	 vs.	 Uruguay.	 Fondo	 Reparaciones	 y	 costas. Sentencia	de	13	de	octubre	de	2011. Serie	C	No.	234,	párr.	120.
+
+En ese sentido, @salmon_derecho_2012 tiene razón cuando, respecto del derecho a ser oído, afirma: *"De lo que se concluye que existen casos en los que se requiere que el proceso sea oral y, de no ser así, las partes podrán alegar la violación del artículo 8.1, siempre y cuando dicha oralidad esté debidamente justificada."*
+
+En consecuencia, la oralidad no es una exigencia absoluta, pero ello no puede llevarnos a concluir que, en consecuencia, pueda ser eliminada o suprimida sin más. Esto es así porque, siguiendo a la Corte IDH, hay ciertos casos en los que el derecho a ser oído *debe ejercerse de manera oral*.
+
+A partir de esta consideración el problema se traslada a saber cuándo o bajo qué circunstancias el proceso debe ser oral.
+
+En el caso del proceso laboral peruano bajo la NLPT, Ley 29497[^26636], el legislador ha optado, respecto de los procesos de conocimiento, que estos sean orales. Esto, en principio, nos alivia de la discusión sobre el tipo de nuestros procesos laborales. Pero la NLPT también contempla dos reglas muy poderosas que deben ser siempre usadas con mucho cuidado y responsabilidad: el rol protagónico de los jueces[^rol] y la interpretación de las normas conforme a los derechos humanos[^der].
+
+[^26636]: En mi opinión la oralidad también está presente en la Ley 26636. Al respecto, puede revisarse @paredes_palacios_paul_oralidad_2012, 356-357.
+
+[^rol]: En el segundo párrafo del artículo III del Título Preliminar de la NLPT se establece que *"Los jueces laborales tienen un rol protagónico en el desarrollo e impulso del proceso"*.
+
+[^der]: *Cfr*. con el artículo IV del Título Preliminar de la NLPT.
+
+¿A qué nos lleva esto? A que, en línea de principio, los procesos laborales de conocimiento deben ser orales, salvo dos condiciones: primera, que no se pueda cumplir con la oralidad (por alguna circunstancia extraordinaria); y, segunda que, sin embargo, no se afecte el derecho a ser oído con las debidas garantías, en el sentido anotado por la Corte IDH.
+
+En consecuencia, tendríamos las siguientes reglas que, a su vez, cumplen el papel de guía de actuación de los jueces:
+
+1. Si a pesar del distanciamiento social es aún posible cumplir con la oralidad, los procesos deberían continuar desarrollándose con oralidad.
+
+2. Si bajo alguna circunstancia no fuese posible cumplir con la oralidad --lo cual se expondrá en la sección siguiente--, pero sí se garantiza el derecho a ser oído con las debidas garantías, entonces, podría, excepcionalmente, prescindirse de la oralidad.
+
+## El contenido de la oralidad
+
+En un anterior trabajo [@paredes_palacios_paul_oralidad_2012] desarrollé el contenido de la oralidad y allí llamaba la atención sobre que la  oralidad no es solo, ni primordialmente, hablar, sino, la *interacción* entre el juez, las partes, los abogados y el material probatorio reunidos en un momento para *conocer*, y conociendo, resolver la causa. 
+
+La clave entonces del contenido de la oralidad no está en hablar (aunque, sin duda, es lo que se hace), sino en la interacción simultánea de los participantes, en un lugar y momento determinados. 
+
+# Uso de las tecnologías de la información y comunicación (TIC)
+
+Ahora bien, ¿esa interacción tiene que ser necesariamente con presencia física de jueces, partes, abogados y terceros en una sala de audiencia? Es aquí donde entran en juego las tecnológicas de la información y comunicación (TIC).
+
+Hoy en día la *presencia física* puede ser sustituida por una *presencia virtual* que, además, resuelve el problema del lugar y momento determinados. En efecto, la descentralización que permite las TIC es sorprendente. No solo es posible que las partes asistan virtualmente a las salas de audiencias, sino que, en la gama de posibilidades que abre,  hasta el lugar físico de las propias salas de audiencias es factible de quedar relativizado. Bajo las TIC es posible, por ejemplo, que no solo las partes sino también los jueces asistan a una audiencia virtual mediante el teletrabajo. 
+
+Hoy, no solo es posible que las partes no asistan físicamente a las audiencias, sino que también el juez podría ni siquiera estar presente en la sala de audiencia. La posibilidad de una *justicia en la nube* es cada vez más concreta y, en algunas provincias en China desde el año 2017 es una realidad. No estoy diciendo que se implemente ahora mismo una *justicia on line*, pero sí que esta idea sirva como orientación hacia la cual debería dirigirse la justicia peruana en general.
+
+Ahora bien, la propuesta del uso de aplicativos para videoconferencias que ya viene siendo utilizada en algunas cortes, necesita cumplir determinadas condiciones --en clave de observancia de las *debidas garantías*-- que no pueden ser descuidadas:
+
+1. Acceso a Internet.
+2. Disposición de espacios, a modo de lugares, desde donde se conecten los participantes.
+3. Usabilidad del aplicativo.
+4. Comprensión del nuevo procedimiento *en línea*.
+5. Publicidad del procedimiento *en línea*.
+6. Almacenamiento del procedimiento *en línea*.
+
+
+## Las dos reglas propuestas: retomando lo dicho en la sección anterior
+
+1. Si a pesar del distanciamiento social es factible el uso de aplicativos de videoconferencia, los procesos laborales podrían continuar desarrollándose con oralidad, pero para ello debería garantizarse, los puntos anotados de acceso, disponibilidad, usabilidad, comprensión, publicidad y almacenamiento.
+
+2. Si no fuese factible utilizar los aplicativos de videoconferencia o no se pudiese cumplir con las condiciones de garantía, podría prescindirse (en mayor o menor medida) de la oralidad, pero en esos casos debe garantizarse *el derecho a ser oído con las debidas garantías*.
+
+## Una regla adicional
+
+Hasta este punto vengo sosteniendo que la regla debiese ser mantener, en la medida de lo posible, el proceso oral valiéndonos del uso de los aplicativos de videoconferencia en tanto, satisfechas ciertas condiciones, permiten el desarrollo de audiencias interactivas que es el propósito último de la oralidad.
+
+También vengo sosteniendo que, dadas las facultades de los jueces, es posible pensar en llevar a cabo procesos con menos componentes orales (o ninguno, por ejemplo, sin audiencia de conciliación y hasta sin audiencia de juzgamiento cuando no hay necesidad de mayores despliegues probatorios), siempre y cuando ese proceso garantice el derecho a ser oído con las debidas garantías. 
+
+Esas dos reglas podrían resultar suficientes, pero ¿cabe una tercera regla? ¿Una tercera regla que considere, de un lado, la situación excepcional, y de otro, la necesidad de avanzar los procesos judiciales pendientes?
+
+No sin cierto recelo, una tercera regla posible --que se desprende del rol protagónico de los jueces y que debería ser excepcional para no anular la oralidad sin más-- sería que los jueces autodeterminen las causas, o tipos de causas, que merecerían ser tratadas con oralidad o sin ella. Tal vez las causas menos complejas o en las que ya se tiene un criterio reiterado podrían ser tramitadas con más o menos componentes de oralidad.
+
+# Medidas auxiliares para el desarrollo del proceso laboral
+
+En esta sección me limitaré a mencionar las medidas auxiliares en torno al desarrollo del proceso laboral pensando dos escenarios. El escenario ordinario que es el que actualmente se tiene; y el escenario digital.
+
+El escenario ordinario actual exige cumplir el distanciamiento social: amplios espacios, separaciones entre las personas de por lo menos un metro, tránsito seguro de personas, exigentes medidas de higiene y desinfección de ambientes. En algunas cortes, como en la Corte de Lima, el uso de los ascensores constituirá un serio problema por la aglomeración y la frecuencia de uso ante a necesidad de asistir a las audiencias, a la revisión de expedientes y la presentación de escritos.
+
+El escenario digital, de otro lado, es el que mejor garantizaría el cumplimiento de la distancia social, pero podría enfrentar problemas de disponibilidad inmediata y de costos de acceso. Aun así, merece pensar en ello pues, además del distanciamiento social, también permite cumplir el logro, en general, de una justicia más eficiente. Este escenario presenta una gama de alternativas. Desde el uso de unos pocos recursos electrónicos hasta sistemas enteramente digitales.
+
+Veamos en que consistirían estas medidas auxiliares considerando ambos escenarios:  
+
+
+. | Medidas auxiliares | Escenario tradicional | Escenario digital 
+--| :----------------- | :-------------------- | :--------------- 
+1 | Acreditación | Presentación DNI | Firma digital
+2 | Demandas y escritos | Recepción física en mesa de partes | Presentación mediante plataformas digitales 
+3 | Expediente | Físico/Escaneo | Enteramente digital
+4 | Audiencias | Presencia física | Presencia virtual / presencia física
+5 | Notificación de la sentencia | En estrado | Electrónica con certificación de fecha de envío
+6 | Conservación y registro | Físico, digital | Físico, digital (blockchain)
+7 | Conciliación | Presencia física | Presencia virtual / presencia física
+8 | Sede de trabajo | Desde oficinas, despacho | Desde oficinas y teletrabajo
+
+
+Dicho esto sin olvidar que desde el año 2010 está pendiente las ayudas electrónicas incorporadas en la NLPT: sistema de cálculo de beneficios sociales, base de datos de jurisprudencia sistematizada y un mayor y mejor acceso a la planilla electrónica.
+
+# Una oportunidad para dar paso a una justicia en línea
+
+Parece del futuro, pero en mayor o menor medida es lo que hoy en día se conoce como *cortes en línea*, *cortes de Internet*, *ciber cortes*, *cortes móviles*, *cortes en la nube* que son los nombres como viene siendo conocido este fenómeno en otros países como Reino Unido (online courts, digital courts), Singapur (online hearings), Países Bajos (online zittingen), China (smart courts, e-court, Internet court, mobile court, trial on the cloud), Japón o Korea (e-court)[^uk]. Y, en algunos aspectos, es lo que, en este tiempo de emergencia, viene ocurriendo en algunas cortes del país en materia penal y de familia mediante la celebración de audiencias virtuales vía Google Hangouts Meet o Whatsapp [@justicia_tv_realizan_2020], [@corte_superior_de_puente_piedra_ventanilla_csjppv_2020].
+
+Las actuales circunstancias ponen de relieve, también, la necesidad de invertir en tecnología y, en particular, en desarrollar sistemas informáticos que garanticen el acceso, la transparencia, la publicidad y la conservación de la información. Parece prudente, desde ya, pensar en un sistema de justicia que, tarde o temprano, será digital con la incorporación de herramientas como la Inteligencia Artificial y la aun poco conocida "cadena de bloques o blockchain".
+
+[^uk]: Para una primera aproximación a la justicia en línea puede revisarse los materiales publicados por @hm_courts__tribunals_service_international_2018, donde se recogen las experiencias de Singapur, los Países Bajos, Japón, Portugal, China, Estados Unidos, Indica y Dinamarca. Sobre el uso de las TIC durante la pandemia puede revisarse las notas periodísticas publicadas por @lee_court_2020, @magrath_coronavirus_2020, @china_daily_courts_2020. Sobre cómo ha venido funcionando la justicia en línea, en China, que es probablemente el sistema más avanzado en justicia digital puede verse @wang_china_2019, @guo_hao_wechat_2019 y @corte_de_beijing_red_2018.
+
+**Referencias**
+
+
+<!--
+# References
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\vspace*{-0.2in}
+\noindent
+-->
+
+
+
+
+
+
