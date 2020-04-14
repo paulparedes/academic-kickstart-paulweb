@@ -1,10 +1,23 @@
 ---
-title: Proceso laboral y distanciamiento social. ¿Qué hacer?
+title: "Proceso laboral y distanciamiento social. ¿Qué hacer?"
 author: ''
 date: '2020-04-12'
-slug: proceso-laboral-y-distanciamiento-social-qué-hacer
-categories:
+output: pdf_document
+categories: 
   - Proceso laboral
+biblio-style: ''
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+lastmod: '2020-04-12T19:41:56-05:00'
+link-citations: yes
+bibliography: pandemia.bib
+projects: []
+slug: proceso-laboral-y-distanciamiento-social-qué-hacer
+subtitle: ''
+summary: ''
 tags:
   - Coronavirus
   - Debido proceso
@@ -14,20 +27,7 @@ tags:
   - Trabajo remoto
   - Tecnologías de la información y comunicación
   - Teletrabajo
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2020-04-12T19:41:56-05:00'
-featured: no
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
-projects: []
-bibliography: [pandemia.bib]
-link-citations: TRUE
-biblio-style: ""
-
 ---
 
 >"La pandemia a raíz del coronavirus nos ha tomado por sorpresa. Nuestras vidas están cambiando en el modo como nos relacionamos con los otros.  La OMS recomienda el distanciamiento social que consiste en mantener, por lo menos, un metro de distancia entre uno y las demás personas. ¿Cómo afectará este distanciamiento la dinámica de los procesos laborales? El juez Huerta en una reciente publicación[^1] ha puesto el tema sobre el tapete y ha llamado a proponer ideas a fin de discutir las medidas más adecuadas una vez se levante el aislamiento social obligatorio. Estas circunstancias pueden servir no solo para pensar en medidas temporales, sino también en mirar hacia una *justicia en línea*."
