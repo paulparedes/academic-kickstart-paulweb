@@ -20,6 +20,7 @@ tags:
   - Estado de emergencia
   - Suspensión
 authors: []
+draft: true
 ---
 
 Descargue la versión en PDF del artículo [AQUÍ](/files/2020-04-14-d-u-038-2020-suspensión-perfecta-de-labores-y-otras-medidas.pdf) 
