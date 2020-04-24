@@ -3,6 +3,8 @@ title: 'D. U. 038-2020: suspensión perfecta de labores y otras medidas'
 author: ''
 date: '2020-04-14'
 output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
 featured: no
 image:
   caption: ''
@@ -23,7 +25,7 @@ authors: []
 draft: true
 ---
 
-Descargue la versión en PDF del artículo [AQUÍ](/files/2020-04-14-d-u-038-2020-suspensión-perfecta-de-labores-y-otras-medidas.pdf) 
+
 
 ## Resumen del D. U. 038-2020
 
