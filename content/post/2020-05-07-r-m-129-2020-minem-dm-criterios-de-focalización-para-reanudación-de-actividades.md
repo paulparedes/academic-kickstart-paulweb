@@ -2,7 +2,7 @@
 title: 'R.M. 129-2020-MINEM/DM: criterios de focalización territorial para reanudación
   de actividades en la gran minería'
 author: ''
-date: '2020-05-07'
+date: '9 de mayo de 2020'
 output: word_document
 image:
   caption: ''
@@ -20,7 +20,9 @@ categories:
   - Derecho individual del trabajo
 ---
 
-Versión del artículo en PDF [AQUÍ](/pdf/r-m-129-2020-minem-dm-criterios-de-focalizacion-para-reanudacion-de-actividades.pdf)
+Versión del artículo en PDF [AQUÍ](/pdf/2020-05-07-r-m-129-2020-minem-dm-criterios-de-focalizacion-para-reanudacion-de-actividades.pdf)
+
+-- Actualizado con la R.M. 265-2020-MINSA publicada en El Peruano el 08/05/2020, la cual modifica la R.M. 239-2020-MINSA que es la norma que fija los "Lineamientos para la vigilancia de la salud de los trabajadores con riesgo de exposición a COVID-19"
 
 
 | R.M. 129-2020-MINEM/DM | CONDICIONES | CONTENIDO |
@@ -33,8 +35,8 @@ Versión del artículo en PDF [AQUÍ](/pdf/r-m-129-2020-minem-dm-criterios-de-fo
 | | | b) El Comité de Seguridad y Salud en el Trabajo aprueba el PLAN
 | | | c) La empresa envía el PLAN aprobado al viceministerio de minas
 | | | d) El viceministerio verifica la estructura y contenido mínimo del PLAN y da su respuesta al empleador
-| | | e) El empleador remite el PLAN al Instituto Nacional de Salud del MINSA para su registro en el Sistema Integrado para COVID-19 (SICOVID-19)
-| | | **2. Cumplir con los lineamientos y normas dictadas por el MINSA** como son, principalmente, la R.M. 193-2020-MINSA y la R.M. 239-2020-MINSA
+  | | | e) El empleador registra el PLAN en el Sistema Integrado para COVID-19 (SICOVID-19) en el MINSA, conforme a la R.M. 265-2020-MINSA (08/05/2020). ~~El empleador remite el PLAN al Instituto Nacional de Salud del MINSA para su registro en el Sistema Integrado para COVID-19 (SICOVID-19)~~
+| | | **2. Cumplir con los lineamientos y normas dictadas por el MINSA** como son, principalmente, la R.M. 193-2020-MINSA, la R.M. 239-2020-MINSA y su modificatoria: la R.M. 265-2020-MINSA 
 | | | **3. No tener medidas administrativas o judiciales de paralización**
 | | **CRITERIOS DE FOCALIZACIÓN ESPECÍFICOS PARA MINERÍA** | **ACTIVIDADES COMPRENDIDAS**
 | | | 1. Explotación, beneficio, almacenamiento, cierre de mina y transporte correspondiente a la gran minería y sus actividades conexas

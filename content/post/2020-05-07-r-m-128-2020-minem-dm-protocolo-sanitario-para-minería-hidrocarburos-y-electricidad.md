@@ -2,7 +2,14 @@
 title: 'R.M. 128-2020-MINEM/DM: protocolo sanitario para minería, hidrocarburos y
   electricidad'
 author: ''
-date: '2020-05-07'
+date: '9 de mayo de 2020'
+categories:
+  - Derecho individual del trabajo
+tags:
+  - Coronavirus
+  - Derecho del trabajo
+  - Estado de emergencia
+  - SUNAFIL
 output: word_document
 featured: no
 image:
@@ -10,21 +17,13 @@ image:
   focal_point: ''
   preview_only: no
 lastmod: '2020-05-07T21:57:58-05:00'
-categories: 
-  - Derecho individual del trabajo
-projects: []
 slug: r-m-128-2020-minem-dm-protocolo-sanitario-para-minería-hidrocarburos-y-electricidad
-subtitle: ''
-summary: ''
-tags:
-  - Coronavirus
-  - Derecho del trabajo
-  - Estado de emergencia
-  - SUNAFIL
-authors: []
 ---
 
-Versión del artículo en PDF [AQUÍ](/pdf/r-m-128-2020-minem-dm-protocolo-sanitario-para-mineria-hidrocarburos-y-electricidad.pdf)
+Versión del artículo en PDF [AQUÍ](/pdf/2020-05-07-r-m-128-2020-minem-dm-protocolo-sanitario-para-mineria-hidrocarburos-y-electricidad.pdf)
+
+-- Actualizado con la R.M. 265-2020-MINSA publicada en El Peruano el 08/05/2020, la cual modifica la R.M. 239-2020-MINSA que es la norma que fija los "Lineamientos para la vigilancia de la salud de los trabajadores con riesgo de exposición a COVID-19"
+
 
 | R.M. 128-2020-MINEM/DM | TEMA | CONTENIDO |
 | :---------------- | :-----------| :---------|
@@ -33,7 +32,7 @@ Versión del artículo en PDF [AQUÍ](/pdf/r-m-128-2020-minem-dm-protocolo-sanit
 | | | b) El Comité de Seguridad y Salud en el Trabajo aprueba el PLAN
 | | | c) La empresa envía el PLAN aprobado al viceministerio de minas
 | | | d) El viceministerio verifica la estructura y contenido mínimo del PLAN y da su respuesta al empleador
-| | | e) El empleador remite el PLAN al Instituto Nacional de Salud del MINSA para su registro en el Sistema Integrado para COVID-19 (SICOVID-19)
+| | | e) El empleador registra el PLAN en el Sistema Integrado para COVID-19 (SICOVID-19) en el MINSA (según la R.M. 265-2020-MINSA del 08/05/2020) ~~remite el PLAN al Instituto Nacional de Salud del MINSA para su registro en el Sistema Integrado para COVID-19 (SICOVID-19)~~
 | | ACCESO AL PLAN |
 | | | -- El PLAN debe ser accesible a los entes de fiscalización
 | | | -- El PLAN debe ponerse en conocimiento de los trabajadores, se entiende, **antes** de la reanudación de labores para poder exigir y cumplir las medidas de prevención
@@ -101,14 +100,15 @@ Versión del artículo en PDF [AQUÍ](/pdf/r-m-128-2020-minem-dm-protocolo-sanit
 | | | Enfermedades cardiovasculares
 | | | Cáncer
 | | | Diabetes mellitus
-| | | Obesidad con IMC de 30 a más
+| | | Obesidad con IMC de 40 a más (R.M: 265-2020-MINSA) ~~30 a más~~
 | | | Asma
-| | | Enfermedad respiratoria crónica
+| | | Enfermedad pulmonar crónica (R.M. 265-2020-MINSA) ~~respiratoria crónica~~
 | | | Insuficiencia renal crónica
 | | | Enfermedad o tratamiento inmunosupresor
+| | | Según R.M. 239 y 265-2020-MINSA el médico podría considerar algún otro caso en este grupo
 | | MEDIDAS ESPECÍFICAS | | 
 | | | 1. Implementar trabajo remoto de ser posible
-| | | 2. Su regreso a laborar requiere informe del profesional de la salud previa evaluación del paciente
+| | | 2. Los trabajadores comprendidos en este grupo mantienen la cuarentena hasta el término de la emergencia sanitaria (según la R.M. 265-2020-MINSA) ~~Su regreso a laborar requiere informe del profesional de la salud previa evaluación del paciente~~
 |SERVICIO MÉDICO EN LA UNIDAD | | | 
 | | CONDICIONES GENERALES | | 
 | | | **1. Debe brindar atención permanente con número de profesionales de la salud adecuado**

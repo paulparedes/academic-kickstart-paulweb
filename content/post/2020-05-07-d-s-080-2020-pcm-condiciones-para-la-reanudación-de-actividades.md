@@ -1,10 +1,10 @@
 ---
 title: 'D.S. 080-2020-PCM: condiciones para la reanudación de actividades'
 author: ''
-date: '2020-05-07'
+date: '9 de mayo de 2020'
 output:
-  pdf_document: default
   word_document: default
+  pdf_document: default
 featured: no
 fontsize: 12pt
 image:
@@ -25,7 +25,10 @@ tags:
   - SUNAFIL
 authors: []
 ---
-Versión del artículo en PDF [AQUÍ](/pdf/d-s-080-2020-pcm-condiciones-para-la-reanudación-de-actividades.pdf) 
+Versión del artículo en PDF [AQUÍ](/pdf/2020-05-07-d-s-080-2020-pcm-condiciones-para-la-reanudacion-de-actividades.pdf) 
+
+-- Actualizado con la R.M. 265-2020-MINSA publicada en El Peruano el 08/05/2020, la cual modifica la R.M. 239-2020-MINSA que es la norma que fija los "Lineamientos para la vigilancia de la salud de los trabajadores con riesgo de exposición a COVID-19"
+
 
 | D.S. 080 2020 PCM | CONDICIONES | CONTENIDO |
 | :---------------- | :-----------| :---------|
@@ -33,7 +36,7 @@ Versión del artículo en PDF [AQUÍ](/pdf/d-s-080-2020-pcm-condiciones-para-la-
 | | | 2. Criterios de focalización territorial y la obligatoriedad de informar incidencias como la detección de casos COVID-19. En energía y minas es la R.M. 129-2020-MINEM/DM |
 | | | 3. Coordinaciones con los gobiernos regionales y locales |
 | | PREVIO al inicio corresponde a las empresas | 1. Elaborar el "Plan para la vigilancia, prevención y control de COVID-19 en el trabajo" |
-| | El PLAN debe hacerse siguiendo | 1. Los "Lineamientos para la vigilancia de la salud de los trabajadores con riesgo de exposición a COVID-19" aprobado por R.M. 239-2020-MINSA |
+| | El PLAN debe hacerse siguiendo | 1. Los "Lineamientos para la vigilancia de la salud de los trabajadores con riesgo de exposición a COVID-19" aprobado por R.M. 239-2020-MINSA; modificado por la R.M. 265-2020-MINSA |
 | | | 2. Los protocolos sanitarios sectoriales (PSS). P. ej. en sector energía y minas el PSS fue aprobado por R.M. 128-2020-MINEM/DM |
 | | El PLAN debe ser aprobado | Por el Comité de Seguridad y Salud en el Trabajo |
 | | El PLAN debe registrarse | En el Sistema Integrado para Covid-19 (SICOVID-19) del MINSA |
