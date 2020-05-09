@@ -11,7 +11,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-lastmod: '2020-05-07T18:50:55-05:00'
+lastmod: '2020-05-09T15:50:55-05:00'
 categories: 
   - Derecho individual del trabajo
 projects: []

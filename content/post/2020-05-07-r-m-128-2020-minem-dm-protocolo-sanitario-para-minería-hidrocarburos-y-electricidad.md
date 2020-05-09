@@ -16,7 +16,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-lastmod: '2020-05-07T21:57:58-05:00'
+lastmod: '2020-05-09T15:57:58-05:00'
 slug: r-m-128-2020-minem-dm-protocolo-sanitario-para-minería-hidrocarburos-y-electricidad
 ---
 

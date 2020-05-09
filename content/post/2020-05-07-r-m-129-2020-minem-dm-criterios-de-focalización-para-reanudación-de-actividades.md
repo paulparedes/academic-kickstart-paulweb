@@ -8,7 +8,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-lastmod: '2020-05-07T20:38:05-05:00'
+lastmod: '2020-05-09T15:38:05-05:00'
 featured: no
 slug: r-m-129-2020-minem-dm-criterios-de-focalización-para-reanudación-de-actividades
 tags:
