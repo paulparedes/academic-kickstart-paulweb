@@ -21,7 +21,7 @@ output: pdf_document
 fontsize: 12pt
 ---
 
-Versión PDF [AQUÍ](/pdf/2020-04-29-r-m-239-2020-minsa-pautas-basicas-de-proteccion-de-la-salud-de-los-trabajadores.pdf) 
+Versión PDF [AQUÍ](/pdf/r-m-239-2020-minsa-pautas-basicas-de-proteccion-de-la-salud-de-los-trabajadores.pdf) 
 
 ## Criterios generales 
 
