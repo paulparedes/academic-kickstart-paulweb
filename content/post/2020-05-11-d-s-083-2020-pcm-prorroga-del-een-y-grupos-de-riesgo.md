@@ -1,8 +1,11 @@
 ---
-title: 'D.S. 083-2020-PCM o la libertad de enfermarse (y eventualmente morir) sin responsabilidad para el empleador, en nombre de la libertad de contrato'
+title: D.S. 083-2020-PCM o la libertad de enfermarse (y eventualmente morir) sin responsabilidad
+  para el empleador, en nombre de la libertad de contrato
 author: "Paul Paredes"
 date: "11 de mayo de 2020"
-output: pdf_document
+output:
+  word_document: default
+  pdf_document: default
 featured: no
 image:
   caption: ''
@@ -10,19 +13,20 @@ image:
   preview_only: no
 lastmod: '2020-05-11T19:08:15-05:00'
 categories:
-  - Opiniones
-  - Derecho individual del trabajo
+- Opiniones
+- Derecho individual del trabajo
 projects: []
 slug: d-s-083-2020-pcm-prorroga-del-een-y-grupos-de-riesgo
 subtitle: ''
 summary: ''
 tags:
-  - Coronavirus
-  - Derecho del trabajo
-  - Estado de emergencia
-  - Teletrabajo
-  - Trabajo remoto
-thanks: 'D.S. 083-2020-PCM, publicado en El Peruano, el domingo 10 de mayo de 2020. Fe de erratas, publicada el lunes 11 de mayo de 2020.'
+- Coronavirus
+- Derecho del trabajo
+- Estado de emergencia
+- Teletrabajo
+- Trabajo remoto
+thanks: D.S. 083-2020-PCM, publicado en El Peruano, el domingo 10 de mayo de 2020.
+  Fe de erratas, publicada el lunes 11 de mayo de 2020.
 authors: []
 ---
 
