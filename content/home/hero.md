@@ -5,10 +5,11 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Día del trabajador"
+title = "VI Congreso Internacional de Derecho Constitucional"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+hero_media = "scjn-mex.jpeg"
+image_size = "cover"
 
 [design.background]
   #   Apply a background color, gradient, or image.
@@ -36,25 +37,24 @@ hero_media = ""
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-# [cta]
-#  url = "https://sourcethemes.com/academic/docs/install/"
-#  label = "Get Started"
-#  icon_pack = "fas"
-#  icon = "download"
+ [cta]
+  url = "https://www.facebook.com/cec.scjn/?ref=page_internal"
+  label = "Enlace el día del evento"
+  icon_pack = "fas"
+  icon = "link"
   
-#[cta_alt]
-#  url = "https://sourcethemes.com/academic/"
-#  label = "View Documentation"
+[cta_alt]
+  url = "https://www.sitios.scjn.gob.mx/cec/actividades/vi-congreso-internacional-de-derecho-constitucional"
+  label = "Más información"
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
+<br>
+</br>
+El Centro de Estudios Constitucionales de la Suprema Corte de Justicia de la Nación, en coordinación con la Dirección General de Casas de la Cultura Jurídica, el Instituto de la Judicatura Federal y la Universidad de Girona están realizando el VI Congreso Internacional de Derecho Constitucional "El uso del conocimiento científico en los tribunales".
 
-«El **Dia del Trabajador** nos recuerda que los derechos laborales, así como los DDHH, son una conquista. No hay derechos sin lucha.
+El jueves 29 de octubre, a las 10:00 a. m. hora de Perú y México, tendré mi participación en la cual analizaré dos sentencia en las que la Suprema Corte de la Nación de México ha utilizado las estadísticas como prueba científica.
 
-En tiempos que nuestros derechos se ven amenazados por políticas regresivas, cuando debemos elegir "morir o comer"; es hora de volver al origen: organizarnos».
-
---- Claudio Nash
-
-
+Estás cordialmente invitados. ¡Les espero!
