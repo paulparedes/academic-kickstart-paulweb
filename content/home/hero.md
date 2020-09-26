@@ -9,7 +9,7 @@ title = "VI Congreso Internacional de Derecho Constitucional"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "scjn-mex.jpeg"
-image_size = "cover"
+
 
 [design.background]
   #   Apply a background color, gradient, or image.
@@ -55,6 +55,6 @@ image_size = "cover"
 </br>
 El Centro de Estudios Constitucionales de la Suprema Corte de Justicia de la Nación, en coordinación con la Dirección General de Casas de la Cultura Jurídica, el Instituto de la Judicatura Federal y la Universidad de Girona están realizando el VI Congreso Internacional de Derecho Constitucional "El uso del conocimiento científico en los tribunales".
 
-El jueves 29 de octubre, a las 10:00 a. m. hora de Perú y México, tendré mi participación en la cual analizaré dos sentencia en las que la Suprema Corte de la Nación de México ha utilizado las estadísticas como prueba científica.
+El jueves 29 de octubre, a las 10:00 a. m. hora de Perú y México, tendré mi participación en la cual analizaré dos sentencias en las que la Suprema Corte de la Nación de México ha utilizado las estadísticas como prueba científica.
 
 Estás cordialmente invitados. ¡Les espero!
