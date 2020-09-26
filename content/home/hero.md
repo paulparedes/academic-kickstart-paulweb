@@ -57,4 +57,4 @@ El Centro de Estudios Constitucionales de la Suprema Corte de Justicia de la Nac
 
 El jueves 29 de octubre, a las 10:00 a. m. hora de Perú y México, tendré mi participación en la cual analizaré dos sentencias en las que la Suprema Corte de la Nación de México ha utilizado las estadísticas como prueba científica.
 
-Estás cordialmente invitados. ¡Les espero!
+Están cordialmente invitados. ¡Les espero!
