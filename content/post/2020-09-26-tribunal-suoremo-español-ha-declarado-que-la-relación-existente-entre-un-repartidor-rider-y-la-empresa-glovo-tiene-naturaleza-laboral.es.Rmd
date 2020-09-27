@@ -1,0 +1,26 @@
+---
+title: El Tribunal Supremo español ha declarado que la relación existente entre un repartidor y la empresa Glovo tiene naturaleza laboral.
+author: ''
+date: '2020-09-26'
+slug: tribunal-supremo-español-ha-declarado-que-la-relación-existente-entre-un-repartidor-y-la-empresa-glovo-tiene-naturaleza-laboral
+categories:
+  - Derecho individual del trabajo
+tags:
+  - Derecho del trabajo
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-09-26T21:10:41-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+El pasado 23 de setiembre de 2020 la Sala de lo Social del Tribunal Supremo español ha comunicado que el pleno de la Sala Cuarta del TS ha declarado que la relación existente entre un repartidor --llamados allá «riders»-- y la empresa Glovo tiene **naturaleza laboral**. 
+
+El comunicado, haciendo referencia al Recurso n.° 4746/2019, da cuenta que el Tribunal Supremo ha considerado "que concurren las notas definitorias del contrato de trabajo, examinando en particular las de dependencia y ajenidad". 
+
+Agrega el comunicado que "el Tribunal Supremo sostiene que Glovo no es una mera intermediaria en la contratación de servicios entre comercios y repartidores. Es una empresa que presta servicios de recadería y mensajería fijando las condiciones esenciales para la prestación de dicho servicio. Y es titular de los activos esenciales para la realización de la actividad. Para ello se sirve de repartidores que no disponen de una organización empresarial propia y autónoma, los cuales prestan su servicio insertados en la organización de trabajo del empleador".
